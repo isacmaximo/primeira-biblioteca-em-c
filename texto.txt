@@ -1,0 +1,7 @@
+Leia esse texto linha por linha:
+
+1 - python
+2 - c
+3 - java
+
+bem vindo @@@@ !
